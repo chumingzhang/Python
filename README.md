@@ -9,3 +9,5 @@
 3. face_test-人脸检测
 
 4. real_face-人脸识别
+
+5. MyPlane-经典飞机大战（微信小程序）
