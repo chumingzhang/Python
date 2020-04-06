@@ -11,3 +11,9 @@
 4. real_face-人脸识别
 
 5. MyPlane-经典飞机大战（微信小程序）
+
+6. Mine-扫雷
+
+7. Tetris-俄罗斯方块
+
+8. Gobang-五子棋（人人+人机）
